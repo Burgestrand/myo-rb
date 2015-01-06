@@ -1,4 +1,4 @@
-# Myo::Rb
+# Myo (Ruby)
 
 TODO: Write a gem description
 
